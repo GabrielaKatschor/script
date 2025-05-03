@@ -1,0 +1,3 @@
+Pra definir as permissões:chmod 644 calculadora.sh
+Pra executar o script: ./calculadora.sh
+chmod +x calculadora.sh
